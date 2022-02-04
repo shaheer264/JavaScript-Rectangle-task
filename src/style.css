@@ -1,0 +1,40 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rect {
+    margin: 1%;
+    padding: 3%;
+    padding-left: 30%;
+}
+#length {
+    padding: 0.7%;
+    border-radius: 5px;
+    margin-left: 1.8%;
+    margin-top: 2%;
+    width: 28.5%;
+    text-align: center;
+}
+#Width {
+    padding: 0.7%;
+    border-radius: 5px;
+    margin-left: 2.7%;
+    margin-top: 2%;
+    width: 28.5%;
+    text-align: center;
+}
+#Button {
+    margin-left: 18.7%;
+    margin-top: 5%;
+    padding: 1%;
+    background-color: lightgray;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+#area {
+    padding: 1%;
+    padding-left: 3%;
+}
+#perimeter {
+    padding: 1%;
+    padding-left: 3%; 
+}
